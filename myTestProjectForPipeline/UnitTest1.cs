@@ -16,5 +16,11 @@ namespace myTestProjectForPipeline
         {
             Assert.Pass("Test is passed");
         }
+
+        [Test]
+        public void Test2()
+        {
+            Assert.Pass("Test is passed");
+        }
     }
 }
